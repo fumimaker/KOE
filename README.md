@@ -1,2 +1,3 @@
 # KOE
-KOE LED SystemV1
+KOE LED System
+LEDテープを使っていい感じに光らせました。
